@@ -1,2 +1,3 @@
-# jimbobbennett
-All about me
+# Jim Bennett
+
+![A picture of Jim]()
