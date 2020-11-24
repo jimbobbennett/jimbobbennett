@@ -73,3 +73,10 @@ Jim does things with IoT and Azure in the Developer Relations team at Microsoft,
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/streaming/youtube.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 </a>
 
+---
+
+📸 **Pictures**
+
+Want a pic of me? Check out the [images](./images) folder.
+
+![Photo of Jim](./images/Headshot1-small-square.jpeg) ![Cartoon of Jim](./images/JimBobBennett-transparent.png)
