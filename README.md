@@ -1,6 +1,6 @@
 😎 **About me:**
 
-🤖 I do things with IoT and academic advocacy in the [DevRel team at Microsoft](https://developer.microsoft.com/advocates/?WT.mc_id=jimbobbennett-github-jabenn).
+🤖 I do things with IoT and academic advocacy in the [DevRel team at Microsoft](https://developer.microsoft.com/advocates/?WT.mc_id=academic-0000-jabenn).
 
 <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/pronouns/hehim.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 
@@ -14,27 +14,27 @@ Jim does things with IoT and Azure in the Developer Relations team at Microsoft,
 
 ❤️ **Things I love:**
 
-<a href="https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://azure.microsoft.com/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://azure.microsoft.com/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://azure.microsoft.com/product-categories/iot/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/product-categories/iot/?WT.mc_id=academic-0000-jabenn">
     <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://dotnet.microsoft.com/apps/xamarin?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://dotnet.microsoft.com/apps/xamarin?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-1-of-44-Programming-with-Python?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-1-of-44-Programming-with-Python?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </a>
 
@@ -42,11 +42,11 @@ Jim does things with IoT and Azure in the Developer Relations team at Microsoft,
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://code.visualstudio.com?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://code.visualstudio.com/?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://dotnet.microsoft.com/apps/xamarin?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://dotnet.microsoft.com/apps/xamarin?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/xamarin_forms.svg" alt="xamarin_forms" style="vertical-align:top; margin:6px 4px">
 </a>
 
@@ -73,3 +73,10 @@ Jim does things with IoT and Azure in the Developer Relations team at Microsoft,
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/streaming/youtube.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 </a>
 
+---
+
+📸 **Pictures**
+
+Want a pic of me? Check out the [images](./images) folder.
+
+![Photo of Jim](./images/Headshot1-tiny-square.png) ![Cartoon of Jim](./images/JimBobBennett-transparent-tiny.png)
