@@ -69,7 +69,7 @@ Jim does things with IoT and Azure in the Developer Relations team at Microsoft,
 <a href="https://dev.to/jimbobbennett">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/blogs/devto.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 </a>
-<a href="https://www.youtube.com/channel/UCdjvkLLbsQnOilmaMrriTeQ">
+<a href="http://youtube.com/c/jimbobbennett">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/streaming/youtube.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 </a>
 
