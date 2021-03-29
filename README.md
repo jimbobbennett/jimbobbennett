@@ -1,6 +1,6 @@
 😎 **About me:**
 
-🤖 I do things with IoT and academic advocacy in the [DevRel team at Microsoft](https://developer.microsoft.com/advocates/?WT.mc_id=jimbobbennett-github-jabenn).
+🤖 I do things with IoT and academic advocacy in the Next Generation Experiences team as part of [Microsoft Developer Relations](https://developer.microsoft.com/advocates/?WT.mc_id=jimbobbennett-github-jabenn).
 
 <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/pronouns/hehim.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 
