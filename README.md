@@ -80,3 +80,5 @@ Jim does things with IoT and Azure in the Developer Relations team at Microsoft,
 Want a pic of me? Check out the [images](./images) folder.
 
 ![Photo of Jim](./images/Headshot1-tiny-square.png) ![Cartoon of Jim](./images/JimBobBennett-transparent-tiny.png)
+
+Photos courtesy of [Cameron Tomisser](https://twitter.com/camerontomisser), caricature by [David Neal](https://twitter.com/reverentgeek).
