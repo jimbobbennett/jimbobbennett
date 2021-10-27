@@ -32,10 +32,6 @@ He also hates and is allergic to cats, but has an 8-year-old daughter who loves 
     <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://dotnet.microsoft.com/apps/xamarin?WT.mc_id=jimbobbennett-github-jabenn">
-  <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-</a>
-
 <a href="https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-1-of-44-Programming-with-Python?WT.mc_id=jimbobbennett-github-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </a>
@@ -47,9 +43,6 @@ He also hates and is allergic to cats, but has an 8-year-old daughter who loves 
 <a href="https://code.visualstudio.com?WT.mc_id=jimbobbennett-github-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 </a>
-
-<a href="https://dotnet.microsoft.com/apps/xamarin?WT.mc_id=jimbobbennett-github-jabenn">
-  <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/xamarin_forms.svg" alt="xamarin_forms" style="vertical-align:top; margin:6px 4px">
 </a>
 
 ---
