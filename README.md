@@ -16,23 +16,27 @@ He also hates and is allergic to cats, but has a 9-year-old daughter who loves c
 
 ❤️ **Things I love:**
 
-<a href="https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://azure.microsoft.com/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://azure.microsoft.com/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://azure.microsoft.com/product-categories/iot/?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://azure.microsoft.com/product-categories/iot/?WT.mc_id=academic-0000-jabenn">
     <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-1-of-44-Programming-with-Python?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://apple.com">
+    <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-1-of-44-Programming-with-Python?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </a>
 
@@ -40,7 +44,7 @@ He also hates and is allergic to cats, but has a 9-year-old daughter who loves c
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://code.visualstudio.com?WT.mc_id=jimbobbennett-github-jabenn">
+<a href="https://code.visualstudio.com?WT.mc_id=academic-0000-jabenn">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 </a>
 </a>
