@@ -67,6 +67,9 @@ He also hates and is allergic to cats, but has a 9-year-old daughter who loves c
 <a href="https://twitch.com/jimbobbennett">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/streaming/twitch.svg" alt="Twitch" style="vertical-align:top; margin:6px 4px">
 </a>
+<a href="https://www.tiktok.com/@jimbobbennett">
+  <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/social/tiktok.svg" alt="TikTok" style="vertical-align:top; margin:6px 4px">
+</a>
 
 ---
 
