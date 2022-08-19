@@ -77,6 +77,6 @@ He also hates and is allergic to cats, but has a 9-year-old daughter who loves c
 
 Want a pic of me? Check out the [images](./images) folder.
 
-![Photo of Jim](./images/Headshot1-tiny-square.png) ![Cartoon of Jim](./images/JimBobBennett-transparent-tiny.png)
+![Photo of Jim](./images/LGPC_JimBennett_Portrait12.png) ![Photo of Jim](./images/Headshot1-tiny-square.png) ![Cartoon of Jim](./images/JimBobBennett-transparent-tiny.png)
 
 Photos courtesy of [Cameron Tomisser](https://twitter.com/camerontomisser), caricature by [David Neal](https://twitter.com/reverentgeek).
