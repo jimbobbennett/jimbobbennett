@@ -46,7 +46,7 @@ He also hates and is allergic to cats, but has a 9-year-old daughter who loves c
 
 👨‍💻**You can find me all around the web:**
 
-<a href="https://jimbobbennett.io">
+<a href="https://jimbobbennett.dev">
   <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/jim/blog.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 </a>
 <a href="https://twitter.com/jimbobbennett">
