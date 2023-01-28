@@ -10,7 +10,7 @@
 
 Jim is a Regional Cloud Advocate focusing on building out and skilling communities in the Pacific North West, with a focus on the Microsoft Reactor in Redmond, Washington, as well as a passion for the internet of things. He’s British, so sounds way smarter than he actually is, and is happy he moved to Redmond in time to be locked down at home and not see the office he came to work in, or the places he wanted to visit. In the past he’s lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written a book on mobile development.
 
-He also hates and is allergic to cats, but has a 9-year-old daughter who loves cats, so he has 2 cats.
+He also hates and is allergic to cats, but has a 10-year-old daughter who loves cats, so he has 2 cats.
 
 ---
 
