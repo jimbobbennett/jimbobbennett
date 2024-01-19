@@ -10,7 +10,7 @@
 
 Jim is a Principal Developer Advocate at liblab focusing on skilling and inspiring developers, especially helping API developers deliver high-quality SDKs. He’s British, so sounds way smarter than he actually is, and lives in the Pacific North West of the USA. In the past he’s lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written books on mobile development and IoT.
 
-He also hates and is allergic to cats, but has a 10-year-old who loves cats, so he has 2 cats.
+He also hates and is allergic to cats, but has a 11-year-old who loves cats, so he has 2 cats.
 
 ---
 
