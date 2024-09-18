@@ -43,14 +43,8 @@ He also hates and is allergic to cats, but has an 11-year-old who loves cats, so
 
 ---
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66a3daff3972b56590f7becb?variant=light)](https://roadmap.sh)
-
----
-
 📸 **Pictures**
 
-Want a pic of me? Check out the [images](./images) folder.
+Want a pic of me? Check out the [images](./images) folder. This is the preferred headshot, but you do you.
 
-![Photo of Jim](./images/LGPC_JimBennett_Portrait11.png) ![Photo of Jim](./images/Headshot1-tiny-square.png) ![Cartoon of Jim](./images/JimBobBennett-transparent-tiny.png)
-
-Photos courtesy of [Cameron Tomisser](https://twitter.com/camerontomisser), caricature by [David Neal](https://twitter.com/reverentgeek).
+![Photo of Jim](./images/LGPC_JimBennett_Portrait11.png)
