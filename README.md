@@ -1,6 +1,6 @@
 😎 **About me:**
 
-Head of developer advocacy at [Pieces for Developers](https://pieces.app).
+Principal Developer Advocate at [Galileo](https://www.galileo.ai).
 
 <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/pronouns/hehim.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 
@@ -8,7 +8,7 @@ Head of developer advocacy at [Pieces for Developers](https://pieces.app).
 
 🥱 **Longer bio**
 
-Jim is the worlds most energetic developer advocate, and head of developer advocacy at Pieces for Developers, focusing on enabling developers to be more productive by leveraging contextual awareness of not only the code they write, but the content the read and the conversations they have. He’s British, so sounds way smarter than he actually is, and lives in the Pacific North West of the USA. In the past he’s lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written books on mobile development and IoT. He is currently a Microsoft MVP for AI and Developer Tools.
+Jim is the worlds most energetic developer advocate, and a Principal Developer Advocate at Galileo, focusing on enabling developers to be more productive by leveraging contextual awareness of not only the code they write, but the content the read and the conversations they have. He’s British, so sounds way smarter than he actually is, and lives in the Pacific North West of the USA. In the past he’s lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written books on mobile development and IoT. He is currently a Microsoft MVP for AI and Developer Tools.
 
 He also hates and is allergic to cats, but has a 12-year-old who loves cats, so he has 2 cats.
 
