@@ -1,6 +1,6 @@
 😎 **About me:**
 
-Principal Developer Advocate at [Galileo](https://www.galileo.ai).
+Principal Developer Experience Engineer
 
 <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/pronouns/hehim.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
 
