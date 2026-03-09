@@ -10,7 +10,7 @@ Principal Developer Experience Engineer at [Arize AI](https://arize.com)
 
 Jim is the worlds most energetic dev rel and a highly-experienced AI engineer. He’s British, so sounds way smarter than he actually is, and lives in the Pacific North West of the USA. In the past he’s lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written books on mobile development and IoT. He is currently a Microsoft MVP for AI and Developer Tools.
 
-He also hates and is allergic to cats, but has a 12-year-old who loves cats, so he has 2 cats.
+He also hates and is allergic to cats, but has a 13-year-old who loves cats, so he has 2 cats.
 
 ---
 
